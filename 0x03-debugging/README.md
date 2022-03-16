@@ -1,1 +1,1 @@
-tests function that prints if integer is positive or negative
+2-largest_number returns the largest of 3 numbers
