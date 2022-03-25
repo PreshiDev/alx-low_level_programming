@@ -1,1 +1,1 @@
-C - More pointers, arrays and strings
+Task 7, a function that encodes a string into 1337
