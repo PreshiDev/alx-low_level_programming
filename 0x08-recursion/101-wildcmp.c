@@ -1,7 +1,3 @@
-#include "holberton.h"
-
-int check_path(char *S1, char *s2);
-char *move_char(char *s2);
 
 /**
  * wildcmp - compares 2 strings
@@ -10,6 +6,9 @@ char *move_char(char *s2);
  *
  * Return: returns numeral value
  */
+int check_path(char *S1, char *s2);
+char *move_char(char *s2);
+
 int wildcmp(char *s1, char *s2)
 {
 	int i = 0;
