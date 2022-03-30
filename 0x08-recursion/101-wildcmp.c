@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 int check_path(char *S1, char *s2);
 char *move_char(char *s2);
@@ -67,4 +68,20 @@ char *move_char(char *s2)
 		return (move_char(s2 + 1));
 	else
 		return (s2);
+}
+
+int wildcmp(char *, char *);
+
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	int r;
+
+	r = wildcmp("school-school.c", "sch*ool.c");
+	printf("%d\n", r);
+	return (0);
 }
