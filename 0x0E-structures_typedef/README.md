@@ -1,1 +1,1 @@
-4-new_dog.c that creates a new dog.
+5-free_dog.c is a function that frees dogs.
