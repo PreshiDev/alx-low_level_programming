@@ -1,1 +1,1 @@
-2-print_dog.c prints a struct dog.
+4-new_dog.c that creates a new dog.
