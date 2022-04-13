@@ -1,1 +1,1 @@
-0x0D. C - Preprocessor
+All directories holds every project task carried out
