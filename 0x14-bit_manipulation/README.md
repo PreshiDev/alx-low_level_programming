@@ -1,1 +1,1 @@
-0x14. C - Bit manipulation
+task one, a function that prints the binary representation of a number.
